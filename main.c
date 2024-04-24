@@ -1,4 +1,5 @@
 #include <stdio.h>
+//declaring a structure named book
 struct book
 {
 char title [20];
